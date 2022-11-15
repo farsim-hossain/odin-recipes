@@ -1,0 +1,17 @@
+h1 {
+    background-color: aquamarine;
+}
+
+li {
+    background-color: yellow;
+}
+
+
+li.a {
+    background-color: gray;
+}
+
+h3,ol {
+    font-family: 'Courier New', Courier, monospace;
+}
+
